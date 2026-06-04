@@ -1,0 +1,20 @@
+Along with my slides I uploaded two pdfs that I used in preparing for my talk:
+- Shor's Algorithm With Few Qubits, which is an article computing resources to use Shor's algorithm to factor RSA-2048
+  or solve the DLP on ECC-256; it's a very interesting article with lots of discussion of tradeoffs that can be done in 
+  quantum computing betwen time and number of qubits.
+- NIST's Internal Report 8545, explaining why they are choosing to standardize HQC over BIKE; it's an interesting look 
+  at how standardization decisions are made.
+
+In addition, here are some links to interesting websites that I used:
+- History of quantum computing, with many links to more information: 
+  https://thequantuminsider.com/2026/04/24/history-of-quantum-computing/
+- FIPS 203, the NIST document describing the lattice-based KEM (basically encryption/decryption algorithm) 
+  that is now used on the internet: https://csrc.nist.gov/pubs/fips/203/final
+- Link to the landing page for the current competition for post-quantum signature algorithms: 
+  https://csrc.nist.gov/projects/pqc-dig-sig
+
+Finally, if you want to check if your browser is using post-quantum crypto:
+- Cloudflare website that checks if you are using post-quantum cryptography (MLKEM768 is "module-based key encapsulation 
+  mechanism in 768 dimensions"; X25519 is "elliptic curve DLP on a curve defined over FF_p with p = 2^255-19"; most connections 
+  currently use both to hedge against both a new attack on post-quantum systems and a future attack from quantum computers) 
+  in your current connection: https://pq.cloudflareresearch.com
