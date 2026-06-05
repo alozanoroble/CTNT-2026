@@ -75,7 +75,7 @@ Sunday 9:00
   Title: Applications of cutting asymptotically good towers of number fields
 Sunday 10:00
   Speaker: Santiago Arango-Pineros (UMass Amherst)
-  Title: A modern view of Fermat’s method of descent
+  Title: Counting primitive solutions to Fermat equations
 Sunday 11:30
   Speaker: Jen Paulhus (Mount Holyoke College)
   Title: Completely decomposable Jacobian varieties
