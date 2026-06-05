@@ -1,0 +1,110 @@
+CTNT 2026 – CONFERENCE SCHEDULE WITH TITLES
+----------------------------------------
+Friday 1:00
+  Speaker: Tyler Genao (Ohio State University)
+  Title: Elliptic curves, torsion points and Galois representations
+Friday 2:00
+  Speaker: Sarah Arpin (Virginia Tech)
+  Title: Elliptic Curves and Isogeny-Based Cryptography
+Friday 3:00
+  Speaker: Joseph H. Silverman (Brown University)
+  Title: Number Theory, Dynamical Systems, and Wide Spacing of Orbits
+----------------------------------------
+Room BPB 131
+Friday 4:30
+  Speaker: Mike Cerchia (University of Maine)
+  Title: Quadratic points on modular curves and images of Galois
+Friday 5:00
+  Speaker: Caylee Spivey (University of Connecticut)
+  Title: Counting k-free ideals in generalized arithmetic progressions
+Friday 5:30
+  Speaker: Eray Karabıyık (Cornell University)
+  Title: Classifying Hyperelliptic Modular Curves
+----------------------------------------
+Room BPB 132
+Friday 4:30
+  Speaker: Jacob Mayle (University of Delaware)
+  Title: Coprime Reductions of Elliptic Curves
+Friday 5:00
+  Speaker: Daniel Gotshall (University of Rochester)
+  Title: Hilbertian Fields and Profinite Iterated Monodromy Groups Over Transcendental Elements
+Friday 5:30
+  Speaker: Sung Min Lee (Wake Forest university)
+  Title: How Often Are Elliptic Curve Reductions Divisible by m?
+----------------------------------------
+Saturday 9:00
+Speaker: Amanda Folsom (Amherst College)
+  Title: Quantum modular forms and applications
+  Saturday 10:00
+Speaker: Patrick Allen (McGill University)
+  Title: Minimal lifts in the badly dihedral case
+  Saturday 11:30
+Speaker: Catherine Hsu (Swarthmore College)
+  Title: Explicit R=T via rank bounds
+  Saturday 2:00
+Speaker: Daniel Litt (University of Toronto)
+  Title: Arithmetic of differential equations
+  Saturday 3:00
+Speaker: Juanita Duque-Rosero (Boston University)
+  Title: Stacky curves and local-to-global principles
+----------------------------------------
+BPB 131
+Saturday 4:30
+  Speaker: Benjamin York (Skidmore College)
+  Title: The Adelic Galois Image of an Elliptic Curve with CM
+Saturday 5:00
+  Speaker: Rakvi (The University of Maine)
+  Title: On congruence obstructions in the refined Koblitz conjecture
+Saturday 5:30
+  Speaker: Connor Stewart (CUNY Graduate Center)
+  Title: Conductor-Discriminant Inequality for Tamely Ramified Cyclic Covers
+----------------------------------------
+BPB 132
+Saturday 4:30
+  Speaker: Suzanne O’Hara (Wesleyan University)
+  Title: Heavenly Elliptic Curves over Cubic Fields
+Saturday 5:00
+  Speaker: Huy Dang (Binghamton University)
+  Title: Lifting abelian covers from characteristic p to characteristic 0
+Saturday 5:30
+  Speaker: James Austin Myer (CUNY Graduate Center)
+  Title: How to Construct a Regular Model of a Hyperelliptic Curve in Mixed Characteristic (0,2)
+----------------------------------------
+Sunday 9:00
+  Speaker: Ravi Ramakrishna (Cornell University)
+  Title: Applications of cutting asymptotically good towers of number fields
+Sunday 10:00
+  Speaker: Santiago Arango-Pineros (UMass Amherst)
+  Title: A modern view of Fermat’s method of descent
+Sunday 11:30
+  Speaker: Jen Paulhus (Mount Holyoke College)
+  Title: Completely decomposable Jacobian varieties
+Sunday 12:30
+  Speaker: Kiran S. Kedlaya (University of California San Diego)
+  Title: A formalizable approach to classifying vector bundles on the Fargues-Fontaine curve
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
