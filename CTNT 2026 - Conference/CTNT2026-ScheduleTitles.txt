@@ -21,7 +21,7 @@ Friday 5:30
   Speaker: Eray Karabıyık (Cornell University)
   Title: Classifying Hyperelliptic Modular Curves
 ----------------------------------------
-Room BPB 132
+Room BPB 130
 Friday 4:30
   Speaker: Jacob Mayle (University of Delaware)
   Title: Coprime Reductions of Elliptic Curves
@@ -59,7 +59,7 @@ Saturday 5:30
   Speaker: Connor Stewart (CUNY Graduate Center)
   Title: Conductor-Discriminant Inequality for Tamely Ramified Cyclic Covers
 ----------------------------------------
-BPB 132
+BPB 130
 Saturday 4:30
   Speaker: Suzanne O’Hara (Wesleyan University)
   Title: Heavenly Elliptic Curves over Cubic Fields
